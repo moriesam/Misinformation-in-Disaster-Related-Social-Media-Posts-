@@ -1,0 +1,10 @@
+Requirements:
+
+Scikitlearn==0.21
+
+Tweet Scrape==0.6.2
+
+TextBlob==0.15.2
+
+Pandas==1.0.0
+
